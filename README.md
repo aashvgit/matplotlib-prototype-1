@@ -1,4 +1,4 @@
-IndirectTransform — GSoC 2026 Prototype
+IndirectTransform 
 ========================================
 Proposed addition to lib/matplotlib/transforms.py
 Tested against matplotlib 3.10.8
